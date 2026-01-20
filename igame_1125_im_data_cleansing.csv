@@ -1,4 +1,4 @@
-msg_id,content,partition_id,msg_type,role_id,timestamp,post_id,post_title,post_content,comment_author_id
+msg_id,content,partion_id,msg_type,role_id,timestamp,post_id,post_title,post_content,comment_author_id
 2199145,습격 헬프~,101600000009,qq,Archmage,2025-11-25 16:47:45,1,post_title,post_content,comment_author_id
 3931107,0 Celsius. frosty 😁,100100000031,qq,Nayeira,2025-11-25 16:47:52,1,post_title,post_content,comment_author_id
 2564114,邀请做完了，然后登录不了，真有你的lls,100200000001,im,Snow,2025-11-25 16:47:49,1,post_title,post_content,comment_author_id
